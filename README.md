@@ -1,4 +1,5 @@
 Assalam u Alaikum- 👋 Hi, I’m @HussainKhizar
+- "_" The graduate of the PCAP: Programming Essentials in Python course
 - 👀 I’m interested in java scri[ts , mobile app dvelopment and in cyber security
 - 🌱 I’m currently learning BS-IT
 - 💞️ I’m looking to collaborate on networking and cyber threat analysis
